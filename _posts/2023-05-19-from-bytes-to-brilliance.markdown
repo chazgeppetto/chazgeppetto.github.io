@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "From Bytes to Brilliance: Join Chaz Geppetto and Josh in the World of Tech"
-date: 2023-05-19 22:35:04 -0400
+date: 2023-05-19 19:35:04 -0400
 categories: introduction
 ---
 
