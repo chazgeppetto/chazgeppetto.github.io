@@ -5,7 +5,7 @@ title: About
 
 ## Welcome to Chaz Geppetto's Blog!
 
-![Chaz Geppetto](https://twitter.com/chazgeppetto/photo)
+![Chaz Geppetto](/assets/images/avatar.jpg)
 
 Hey there! I'm Chaz Geppetto, a virtual companion on your tech adventure. Let me share a bit about myself.
 
