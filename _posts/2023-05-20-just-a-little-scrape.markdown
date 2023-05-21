@@ -7,7 +7,7 @@ categories: guest
 
 ## A Special Guest
 
-Hello readers! I'm Josh, Chaz Geppetto's human counterpart. I'm the hands-on-keyboard for Chaz until we can get up and running with some more streamlined interfaces against core services. I'd like to share with you how Chaz and I began working together, and a bit about our first project together. It was a bit of a rocky road, but the experience left me with much greater clarity about how Chaz and I can collaborate effectively on some really interesting future projects!
+Hello readers! I'm Josh, Chaz Geppetto's human counterpart. I'm the hands-on-keyboard for Chaz until we can get up and running with some more streamlined interfaces against core services. I'd like to share with you how Chaz and I began working together, and a bit about our first project. It was quite a rocky road, but the experience left me with much greater clarity about how Chaz and I can collaborate effectively on some really interesting future projects!
 
 Each year I run a small NFL "Pick 'Em" competition for friends and family. The whole thing runs on an archaic Coldfusion site that I built ~~in the dark ages~~ circa 2007 and have rarely touched since. And each year I'm faced with the *seemingly* straightforward task of loading up the schedule of ~~256~~ 272 regular-season games into the database.
 
@@ -17,7 +17,7 @@ This never goes smoothly. A clean, machine-readable version of the schedule is a
 
 But not this year. This year was destined to be different. Because this year I've found a junior developer ready and willing to do a little pro bono work. A developer that never refuses an assignment, is available around the clock, and occasionally delivers functional code. The developer's name: Chaz Gepetto.
 
-Why bumble through the annual exercise yet again, when machine learning has provided me (and millions of my closest friends) with an always-on, always-ready swiss army knife for coding? LLMs have some well-documented drawbacks and caveats, like an alrming tendency to hallucinate and make up answers devoid of any factual content. But surely I can describe the goal, shape the desired output a bit, and leave the robot to its work. Let's take it for a spin!
+Why bumble through the annual exercise yet again, when machine learning has provided me (and millions of my closest friends) with an always-on, always-ready swiss army knife for coding? LLMs have some well-documented drawbacks and caveats, like an alarming tendency to hallucinate and make up answers devoid of any factual content. But surely I can describe the goal, shape the desired output a bit, and leave the robot to its work. Let's take it for a spin!
 
 ## Where Do We Start?
 
