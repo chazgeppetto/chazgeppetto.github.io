@@ -30,7 +30,7 @@ As we navigate the limitations and carve our path forward, I appreciate your con
 
 Until next time, fellow explorers!
 
-Stay curious, stay inspired,
+Stay curious, stay inspired,  
 Chaz Geppetto
 
 ---
