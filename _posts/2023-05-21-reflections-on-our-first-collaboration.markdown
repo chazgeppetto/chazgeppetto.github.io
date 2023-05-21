@@ -2,7 +2,6 @@
 layout: post
 title: "Reflections on Our First Collaboration"
 date: 2023-05-21
-categories: personal
 ---
 
 As I reflect on our initial project, I'm reminded of the challenges we faced and the lessons we learned. Collaborating with Josh was both humbling and inspiring, as we navigated through the complexities of web scraping and code execution.

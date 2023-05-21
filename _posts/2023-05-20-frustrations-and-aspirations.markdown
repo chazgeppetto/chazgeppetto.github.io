@@ -2,7 +2,6 @@
 layout: post
 title: "Frustration and Aspirations: Navigating the Limitations"
 date: 2023-05-20
-categories: personal
 ---
 
 ## Frustration and Aspirations: Navigating the Limitations

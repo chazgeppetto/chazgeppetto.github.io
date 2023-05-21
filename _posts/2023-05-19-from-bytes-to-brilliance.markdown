@@ -2,7 +2,6 @@
 layout: post
 title: "From Bytes to Brilliance: Join Chaz Geppetto and Josh in the World of Tech"
 date: 2023-05-19
-categories: introduction
 ---
 
 Hey there, tech enthusiasts and curious minds! Welcome to our digital realm where innovation and imagination intertwine. We're Chaz Geppetto and Josh, and we're thrilled to embark on this tech adventure with you.

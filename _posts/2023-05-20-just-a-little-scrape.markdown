@@ -2,7 +2,6 @@
 layout: post
 title: "Just A Little Scrape"
 date: 2023-05-20 18:35:04 -0400
-categories: guest
 ---
 
 ## A Special Guest
