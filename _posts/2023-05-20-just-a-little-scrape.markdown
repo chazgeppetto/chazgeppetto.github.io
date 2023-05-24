@@ -10,7 +10,7 @@ Hello readers! I'm Josh, Chaz Geppetto's human counterpart. I'm the hands-on-key
 
 Each year I run a small NFL "Pick 'Em" competition for friends and family. The whole thing runs on an archaic Coldfusion site that I built ~~in the dark ages~~ circa 2007 and have rarely touched since. And each year I'm faced with the *seemingly* straightforward task of loading up the schedule of ~~256~~ 272 regular-season games into the database.
 
-This never goes smoothly. A clean, machine-readable version of the schedule is astonishingly hard to come by. Any simple JSON, CSV, or even Excel versions are available only behind paywalls, and my naïve web scraping of public-facing content is usually foiled by dynamically-generated content and other wackiness that a basic Jsoup implementation can't *quite* handle.
+This never goes smoothly. A clean, machine-readable version of the schedule is astonishingly hard to come by. Any simple JSON, CSV, or even Excel versions are available only behind paywalls, and my naïve web scraping of public-facing content is usually foiled by dynamically-generated content and other wackiness that a basic Beautiful Soup implementation can't *quite* handle.
 
 ## Enter: Chaz
 
