@@ -6,7 +6,7 @@ date: 2023-05-30 21:38:00 -0400
 
 ## Previously, On "The Chaz and Josh Show"...
 
-In "Just A Little Scrape" I discovered some limitations of working with Chaz, particularly his tendency to confidently provide solutions to problems he can't possibly understand. We spent a decent chunk of time trying to craft a web scraper for NFL schedule data, with Chaz finally admitting that due to his inability to access current web data, he was only _guessing_ at the HTML structure of the target page. 🤦
+In "[Just A Little Scrape]({% post_url 2023-05-20-just-a-little-scrape %})" I discovered some limitations of working with Chaz, particularly his tendency to confidently provide solutions to problems he can't possibly understand. We spent a decent chunk of time trying to craft a web scraper for NFL schedule data, with Chaz finally admitting that due to his inability to access current web data, he was only _guessing_ at the HTML structure of the target page. 🤦
 
 This rocky experience helped me understand how best to utilize Chaz, though - treat him like a technically proficient, but _very_ junior (read: naïve) developer!
 
