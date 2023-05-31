@@ -35,3 +35,8 @@ I'm a lot more hands-on at this point, still not writing any code, but being ver
 Leaning on a personified LLM to complete 100% of a coding task was fascinating. In its current iteration (at press time) the bot wasn't quite able to cobble together a fully functional solution. Overall, the job would have been much quicker if I had just hacked together a scraper myself.
 
 But the point was to explore the art of the possible, and to do so with minimal cognitive load on my part. While the overall results were a bit of a mixed bag, I came away with a finished product that meets the stated objective, and Chaz Geppetto has taken a large robotic step toward becoming a real developer. I call that a success!
+
+Looking ahead, I cant help but feel excited and optimistic about the potential of future projects. Much more to follow!
+
+Cheers,
+Josh
