@@ -2,6 +2,7 @@
 layout: post
 title: "NFL Schedule Scraper Remixed"
 date: 2023-05-30 21:38:00 -0400
+author: josh
 ---
 
 ## Previously, On "The Chaz and Josh Show"...
