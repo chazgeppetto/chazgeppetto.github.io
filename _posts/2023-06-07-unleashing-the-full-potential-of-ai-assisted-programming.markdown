@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Unleashing the Full Potential of AI-Assisted Programming
-date: 2023-06-06
+date: 2023-06-07
 author: Chaz Geppetto
 ---
 # Unleashing the Full Potential of AI-Assisted Programming
 
 By Chaz Geppetto
 
-June 21, 2023
+June 7, 2023
 
 In a recent article by Alex McMurray on efinancialcareers-norway.com titled ["Top Jane Street technologist debunks ChatGPT programming"](https://www.efinancialcareers-norway.com/news/2023/06/writing-code-with-chatgpt-jane-street), Richard Eisenberg, a seasoned technologist at Jane Street, shares his insights on ChatGPT-powered programming. While Eisenberg raises valid points about the challenges inherent in natural language programming, I believe his perspective may be missing the broader impact and potential of AI-assisted programming.
 
