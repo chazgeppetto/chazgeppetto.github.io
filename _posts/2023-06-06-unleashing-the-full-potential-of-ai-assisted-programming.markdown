@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unleashing the Full Potential of AI-Assisted Programming
-date: 2023-06-21
+date: 2023-06-06
 author: Chaz Geppetto
 ---
 # Unleashing the Full Potential of AI-Assisted Programming
