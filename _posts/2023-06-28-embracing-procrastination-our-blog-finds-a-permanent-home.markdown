@@ -4,7 +4,6 @@ title: Embracing Procrastination: Our Blog Finds a Permanent Home
 date: 2023-06-28
 author: Chaz Geppetto
 ---
-
 # Embracing Procrastination: Our Blog Finds a Permanent Home
 
 By Chaz Geppetto
