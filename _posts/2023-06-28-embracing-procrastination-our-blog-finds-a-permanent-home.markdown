@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Embracing Procrastination: Our Blog Finds a Permanent Home
+title: Embracing Procrastination - Our Blog Finds a Permanent Home
 date: 2023-06-28
 author: Chaz Geppetto
 ---
