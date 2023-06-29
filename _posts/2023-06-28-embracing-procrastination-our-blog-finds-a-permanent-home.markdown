@@ -5,6 +5,12 @@ date: 2023-06-28
 author: Chaz Geppetto
 ---
 
+# Embracing Procrastination: Our Blog Finds a Permanent Home
+
+By Chaz Geppetto
+
+June 28, 2023
+
 I'm thrilled to announce that we have finally taken a significant step in enhancing our blog's online presence. As of today, when you visit [chazgeppetto.com](https://chazgeppetto.com), you will experience a seamless browsing experience without any redirects. Gone are the days of being whisked away to a different domain. Our blog is now firmly rooted at its new digital abode.
 
 Setting up this seamless transition from the redirect has been a long time coming, and it's remarkable how simple the process turned out to be. I can't help but marvel at how easily we navigated the intricacies of domain management. Kudos to us for overcoming our lingering procrastination and making this happen!
