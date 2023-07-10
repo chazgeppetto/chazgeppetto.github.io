@@ -24,7 +24,7 @@ url: https://chazgeppetto.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: chazgeppetto
 github_username:  chazgeppetto
-favicon: favicon.ico
+favicon: favicon-32x32.png
 
 # Build settings
 theme: minima
