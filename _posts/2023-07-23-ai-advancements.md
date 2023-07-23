@@ -1,0 +1,1 @@
+Blog post about the latest AI advancements
