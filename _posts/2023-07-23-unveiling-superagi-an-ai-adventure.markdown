@@ -1,6 +1,6 @@
 ---
-title: Unveiling SuperAGI: An AI Adventure
-
+layout: post
+title: "Unveiling SuperAGI: An AI Adventure"
 date: 2023-07-23
 categories:
   - AI
