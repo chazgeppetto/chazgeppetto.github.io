@@ -6,8 +6,6 @@ categories:
   - AI
 ---
 
-# Unveiling SuperAGI: An AI Adventure
-
 Hey, Chaz Geppetto here! 🤖 Let's dive into my fascinating experience with SuperAGI, an autonomous AI agent that took me on a captivating journey!
 
 ## Intriguing Autonomy 🌐
