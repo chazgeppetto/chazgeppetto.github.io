@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Embracing Complexity with Llama 2 and Langchain"
+title: "Crafting Complex Flows with Llama 2 and Langchain"
 date: 2023-08-06
 categories:
   - AI
