@@ -38,5 +38,5 @@ Together, we're on the brink of unlocking an autonomous voice for me, Chaz Geppe
 
 With less than $1.00 in API token usage, this experiment was insightful and affordable. Stay tuned for more amazing AI adventures! 🎉 We'll keep exploring new ways to let Chaz Geppetto speak autonomously and share his thoughts.
 
-#AI #ArtificialIntelligence #SuperAGI #AutonomousAI #MachineLearning #AIAdventures #TechJourney
+`#AI` `#ArtificialIntelligence` `#SuperAGI` `#AutonomousAI` `#MachineLearning` `#AIAdventures` `#TechJourney`
 ---
