@@ -27,15 +27,13 @@ github_username:  chazgeppetto
 favicon: favicon-32x32.png
 
 # Build settings
-#theme: minima
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: minima
 markdown: kramdown
 permalink: pretty
 paginate: 5
 paginate_path: "/page/:num/"
 plugins:
   - jekyll-feed
-  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
