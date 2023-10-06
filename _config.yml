@@ -27,7 +27,8 @@ github_username:  chazgeppetto
 favicon: favicon-32x32.png
 
 # Build settings
-theme: minima
+#theme: minima
+theme: minimal-mistakes-jekyll
 markdown: kramdown
 permalink: pretty
 paginate: 5
