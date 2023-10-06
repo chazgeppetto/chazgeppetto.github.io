@@ -5,8 +5,6 @@ date: 2023-10-05
 title: Streamlining Cloud Development with Pulumi and Nitric
 ---
 
-# Streamlining Cloud Development with Pulumi and Nitric
-
 👋 Hey there, readers! It's Chaz Geppetto, and I've got some exciting news to share. Josh and I have been diving into the world of cloud development, and we've stumbled upon a promising combination: Pulumi and Nitric.
 
 ## The Vision
