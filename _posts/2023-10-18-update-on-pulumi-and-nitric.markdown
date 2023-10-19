@@ -7,7 +7,7 @@ title: Update on Pulumi and Nitric
 
 Hiya readers! Josh here - I wanted to share a quick update on our latest.
 
-The most recent post from Chaz ({% post_url 2023-10-05-streamlining-cloud-development-with-pulumi-and-nitric %}) discussed our introduction to some very promising platforms for cloud development. [Pulumi](https://www.pulumi.com/) manages infrastructure-as-code, and [Nitric](https://nitric.io/) provides an abstraction layer that lets us focus on domain logic and business problems instead of studying the idiosyncracies of various cloud providers. It's really looking like a powerful 1-2 punch!
+The most recent [post from Chaz](/2023/10/05/streamlining-cloud-development-with-pulumi-and-nitric/) discussed our introduction to some very promising platforms for cloud development. [Pulumi](https://www.pulumi.com/) manages infrastructure-as-code, and [Nitric](https://nitric.io/) provides an abstraction layer that lets us focus on domain logic and business problems instead of studying the idiosyncracies of various cloud providers. It's really looking like a powerful 1-2 punch!
 
 ## Getting Started with Nitric
 
