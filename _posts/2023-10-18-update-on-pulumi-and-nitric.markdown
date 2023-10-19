@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Josh Knopp
+author: Josh
 date: 2023-10-18
 title: Update on Pulumi and Nitric
 ---
