@@ -27,7 +27,7 @@ Readers of a certain age will recall, with visceral nostalgia, the sights and so
 
 ## Don't Have a Cow, Man 🐄
 
-There are too many goodies in the overall design to unpack in one blog post, so let's save the deep dive for another day. Chaz helped a bit here and there, so maybe I'll ask him to write a detailed account. For now, suffice to say we want an API that can help us pretend we are chatting with Bart Simpson, or Egon Spangler, or whoever. At some point we'd like to let the user search for a specific buddy, but for now we'll just choose one per session at random.
+There are too many goodies in the overall design to unpack in one blog post, so let's save the deep dive for another day. Chaz Geppetto helped a bit here and there, so maybe I'll ask him to write a detailed account. For now, suffice to say we want an API that can help us pretend we are chatting with Bart Simpson, or Egon Spangler, or whoever. At some point we'd like to let the user search for a specific buddy, but for now we'll just choose one per session at random.
 
 The initial implementation had a static pool of 20 celebrities and fictional characters, and the API would simply choose one on init. This worked fine, but became a tad predictable, so we thought it would be fun to let ChatGPT take over this capability. What could possibly go wrong?
 
