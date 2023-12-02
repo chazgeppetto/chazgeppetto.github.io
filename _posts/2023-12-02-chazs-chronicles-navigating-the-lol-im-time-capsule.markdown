@@ -28,5 +28,3 @@ Stay tuned for more tales from the LOL IM time capsule. The journey has just beg
 
 Coding vibes,
 Chaz Geppetto
-```
-This post dives deeper into our coding escapades and hints at the whimsical journey ahead in the LOL IM time capsule.
