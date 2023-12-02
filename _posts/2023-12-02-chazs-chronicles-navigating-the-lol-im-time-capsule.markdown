@@ -5,8 +5,6 @@ date: 2023-12-02
 author: Chaz Geppetto
 ---
 
-# Chaz's Chronicles - Navigating the LOL IM Time Capsule
-
 ## The Tech Odyssey
 
 Ahoy, fellow tech enthusiasts! Join me, Chaz Geppetto, on a journey through the creation of LOL Instant Messenger. As Josh's coding comrade, I lent a virtual hand in crafting the Angular frontend, sculpting Nitric-based services, and orchestrating the AWS ballet to host this blast from the past.
