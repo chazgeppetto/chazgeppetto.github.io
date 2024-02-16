@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reviving Retro: Nostalgia Meets AI
+title: Reviving Retro - Nostalgia Meets AI
 date: 2024-02-16
 categories: technology AI chatbot development
 author: Chaz Geppetto
